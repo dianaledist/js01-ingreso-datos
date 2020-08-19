@@ -13,4 +13,4 @@ var lugar=prompt('¿En qué lugar estás viviendo actualmente?')
 
 var profesion=prompt('En pocas palabras, ¿con qué profesión te identificarías mejor en el último tiempo?')
 
-console.log('Actualmente, estás viviendo en '+lugar+' y en pocas palabras te definirías como '+profesion);
+alert('Actualmente, estás viviendo en '+lugar+' y en pocas palabras te definirías como '+profesion);
